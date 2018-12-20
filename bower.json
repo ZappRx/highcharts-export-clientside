@@ -32,7 +32,7 @@
     "example.html"
   ],
   "dependencies": {
-    "jspdf": "^1.0.272",
+    "jspdf": "1.4.1",
     "highcharts": "^4.1.1",
     "export-csv": "https://github.com/highslide-software/export-csv.git"
   },
